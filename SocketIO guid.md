@@ -276,5 +276,7 @@ export default {
 ---
 ![](https://res.cloudinary.com/dj76d2css/image/upload/v1701257391/hLVCykeTBk_klel0g.png)
 ![](https://res.cloudinary.com/dj76d2css/image/upload/v1701257401/Code_mDY1Ih0gfZ_jly1jc.png)
-[![Video Title](https://your-video-thumbnail-url.jpg)][(https://link-to-your-video.com](https://res.cloudinary.com/dj76d2css/video/upload/v1701257654/bandicam_2023-11-29_16-52-16-472_vwcu7k.mp4)https://res.cloudinary.com/dj76d2css/video/upload/v1701257654/bandicam_2023-11-29_16-52-16-472_vwcu7k.mp4)]
+[index.js code example](https://sl.bing.net/fCGG5w2iLOC) 
+
+[![Video Title](https://res.cloudinary.com/dj76d2css/image/upload/v1701257391/hLVCykeTBk_klel0g.png)][(https://link-to-your-video.com](https://res.cloudinary.com/dj76d2css/video/upload/v1701257654/bandicam_2023-11-29_16-52-16-472_vwcu7k.mp4)https://res.cloudinary.com/dj76d2css/video/upload/v1701257654/bandicam_2023-11-29_16-52-16-472_vwcu7k.mp4)]
 
